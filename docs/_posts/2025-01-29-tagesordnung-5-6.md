@@ -21,9 +21,14 @@ categories:
 
 # TOP 4: Bericht Stammtisch
 
+# TOP 5: Infoturm Sommerfest
+- Musik?
+- Allgemeine Informationen
+
 # TOP 5: Stand FSI-Zimmer
 
 # TOP 6: FSI-Lehramt Südgelände
 - Wie denken die anderen FSIen darüber
 
 # TOP 7: Sitzungen in der vorlesungsfreien Zeit
+
