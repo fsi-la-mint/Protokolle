@@ -1,0 +1,111 @@
+---
+layout: post
+title:  "Beispiel-Sitzungsprotokoll"
+date:   2024-10-15 16:20:00 +0200
+categories: proto
+
+leading:
+protocol:
+
+Anwesend:
+Entschuldigt:
+Abwesend:
+
+reports:
+  #- committee:
+  #  name:
+  #  description:
+
+open_themes:
+  #- name: Nachtwanderung
+  #  current: |
+  #    Some stuff
+  #  result: |
+  #    Some stuff
+  #  responsible:
+
+new_themes:
+  #- name:
+  #  description: |
+  #    Some stuff
+  #  result: |
+  #    Some stuff
+  #  responsible:
+---
+{% include proto-sitzung.md %}
+
+Dieses Protokoll wurde mit folgendem Code erstellt:
+
+{% highlight markdown %}
+---
+layout: post
+title:  tagesordnung-
+date:   2025-04-09 18:00:00 +0200
+categories: proto
+
+leading:
+protocol:
+
+Anwesend:
+Entschuldigt:
+Abwesend:
+
+reports:
+  #- committee:
+  #  name:
+  #  description:
+
+open_themes:
+  #- name: kurze begrüßung mit Vorstllungsrunde für potentielle neue Leute
+  #  current: |
+  #   
+  #  result: |
+  # 
+  #  responsible:
+  #- name: kurze Info über den Ablauf
+  #  current: |
+  #   
+  #  result: |
+  # 
+  #  responsible:
+  #- name: Jahresrückblick
+  #  current: |
+  #   
+  #  result: |
+  # 
+  #  responsible:
+  #- name: AG-Check
+  #  current: |
+  #   
+  #  result: |
+  # 
+  #  responsible:
+  #- name: Vorstandsneuwahlen
+  #  current: |
+  #   
+  #  result: |
+  # 
+  #  responsible:
+  #- name: welche Fächer können wir vertreten?
+  #  current: |
+  #   
+  #  result: |
+  # 
+  #  responsible:
+  #- name: was sind unsere Ziele für das kommende Semester
+  #  current: |
+  #   
+  #  result: |
+  # 
+  #  responsible:
+
+new_themes:
+  #- name:
+  #  description: |
+  #    Some stuff
+  #  result: |
+  #    Some stuff
+  #  responsible:
+---
+{% raw %} {% include proto-sitzung.md %} {% endraw %}
+{% endhighlight %}
