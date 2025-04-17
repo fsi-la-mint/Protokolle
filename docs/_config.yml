@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sitzungsprotokolle der FSI Lehramt Informatik
-email: fsi-lehramt-informatik@fau.de
+title: Sitzungsprotokolle der FSI Lehramt MINT
+email: fsi-lehramt-mint@fau.de
 description: >- # this means to ignore newlines until "baseurl:"
   Auf dieser Seite sammeln wir seit dem 16.10.2024 unsere Sitzungsprotokolle.
   Diese erscheinen im Rahmen eines Blogs, den man auch per RSS-Feed abonnieren
   kann.
 baseurl: "/Protokolle" # the subpath of your site, e.g. /blog
-url: "https://fsi-la-inf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: fsi-la-inf
+url: "https://fsi-la-mint.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: fsi-la-mint
 
 # Build settings
 theme: minima
