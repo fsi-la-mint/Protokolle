@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Tagesordnung 6.8"
+date:   2025-10-15 18:00:00 +0200
+categories: to
+---
+
 # Tagesordnung 6.8
 
 ## TOP 1: ESE-Nachbesprechung
