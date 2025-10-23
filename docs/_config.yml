@@ -29,9 +29,13 @@ url: "https://fsi-la-mint.github.io" # the base hostname & protocol for your sit
 github_username: fsi-la-mint
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
+minima:
+  skin: auto
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
