@@ -4,4 +4,4 @@
 
 layout: home
 ---
-# Liste der Protokolle und Tagesordnungen
+## Liste der Protokolle und Tagesordnungen
