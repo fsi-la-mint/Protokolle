@@ -43,6 +43,8 @@ minima:
      - title: Unsere GitHub-Seite
        icon: github
        url: "https://github.com/fsi-la-mint"
+titles_from_headings:
+  enabled: false
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
